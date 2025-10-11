@@ -1,0 +1,9 @@
+services:
+  docs:
+    build: .
+    ports:
+      - "3000:8030"
+    volumes:
+      - ./docs:/app/docs
+    environment:
+      - DOCSIFY_PORT=8030
