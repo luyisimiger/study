@@ -5,3 +5,7 @@
     * [Compose](compose.md)
     * [Stats](stats.md)
     * [Volumes](volumes.md)
+    ---
+    * [Swarm](swarm.md)
+    * [Stacks](stacks.md)
+    * [NUBE](cloud.md)
